@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ben-n-benny
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning FLutter and Web Systems
+- 🌱 I’m currently learning Flutter and Web Systems
 - 💞️ I’m looking forward to work on Google
 
 <!---
